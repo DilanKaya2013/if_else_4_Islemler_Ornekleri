@@ -1,0 +1,11 @@
+C:\Users\User\Desktop\KORUMASIZ\dilan_kaya_273_10\if else Radiobutton 4 İslem Ornekleri\if else Radiobutton 4 İslem Ornekleri\bin\Debug\if else Radiobutton 4 İslem Ornekleri.exe.config
+C:\Users\User\Desktop\KORUMASIZ\dilan_kaya_273_10\if else Radiobutton 4 İslem Ornekleri\if else Radiobutton 4 İslem Ornekleri\bin\Debug\if else Radiobutton 4 İslem Ornekleri.exe
+C:\Users\User\Desktop\KORUMASIZ\dilan_kaya_273_10\if else Radiobutton 4 İslem Ornekleri\if else Radiobutton 4 İslem Ornekleri\bin\Debug\if else Radiobutton 4 İslem Ornekleri.pdb
+C:\Users\User\Desktop\KORUMASIZ\dilan_kaya_273_10\if else Radiobutton 4 İslem Ornekleri\if else Radiobutton 4 İslem Ornekleri\obj\Debug\if else Radiobutton 4 İslem Ornekleri.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\KORUMASIZ\dilan_kaya_273_10\if else Radiobutton 4 İslem Ornekleri\if else Radiobutton 4 İslem Ornekleri\obj\Debug\if else Radiobutton 4 İslem Ornekleri.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\Desktop\KORUMASIZ\dilan_kaya_273_10\if else Radiobutton 4 İslem Ornekleri\if else Radiobutton 4 İslem Ornekleri\obj\Debug\if_else_Radiobutton_4_İslem_Ornekleri.Form1.resources
+C:\Users\User\Desktop\KORUMASIZ\dilan_kaya_273_10\if else Radiobutton 4 İslem Ornekleri\if else Radiobutton 4 İslem Ornekleri\obj\Debug\if_else_Radiobutton_4_İslem_Ornekleri.Properties.Resources.resources
+C:\Users\User\Desktop\KORUMASIZ\dilan_kaya_273_10\if else Radiobutton 4 İslem Ornekleri\if else Radiobutton 4 İslem Ornekleri\obj\Debug\if else Radiobutton 4 İslem Ornekleri.csproj.GenerateResource.cache
+C:\Users\User\Desktop\KORUMASIZ\dilan_kaya_273_10\if else Radiobutton 4 İslem Ornekleri\if else Radiobutton 4 İslem Ornekleri\obj\Debug\if else Radiobutton 4 İslem Ornekleri.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\KORUMASIZ\dilan_kaya_273_10\if else Radiobutton 4 İslem Ornekleri\if else Radiobutton 4 İslem Ornekleri\obj\Debug\if else Radiobutton 4 İslem Ornekleri.exe
+C:\Users\User\Desktop\KORUMASIZ\dilan_kaya_273_10\if else Radiobutton 4 İslem Ornekleri\if else Radiobutton 4 İslem Ornekleri\obj\Debug\if else Radiobutton 4 İslem Ornekleri.pdb
